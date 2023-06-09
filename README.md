@@ -5,9 +5,15 @@ Download embeddings and add the file to unsplash-dataset folder
 link: https://drive.google.com/drive/folders/1WQmedVCDIQKA2R33dkS1f980YsJXRZ-q?usp=sharing
 
 
-## Start server. 
+## Start backend server.
+Go to backend folder
 ```sh
 uvicorn main:app --reload 
+```
+## Start frontend server.
+Go to frontend folder
+```sh
+npm start 
 ```
 
 ## Get photo IDs. 
