@@ -1,0 +1,14 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #CB8A7C;
+    background-color: antiquewhite;
+    margin-bottom: 20px;
+    font-size: 100px;
+    font-style: italic;
+}
+
+.images {
+    background-color: antiquewhite;
+}
